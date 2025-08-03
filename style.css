@@ -734,6 +734,9 @@ section {
 
 /* Responsividade */
 @media (max-width: 768px) {
+    .nav-container {
+        padding: 0 15px;
+    }
     .hamburger {
         display: flex;
     }
